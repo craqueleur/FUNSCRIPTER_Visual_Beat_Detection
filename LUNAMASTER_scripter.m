@@ -2,7 +2,7 @@ clear all
 
 % Spécifiez le nom du fichier vidéo en tant qu'argument
 
-filename = 'New Clover 2 HMV with beats [UNCENSORED]'; % Give the name of the video !
+filename = 'New Clover 2 HMV with beats [UNCENSORED].mp4'; % Give the name of the video !
 outputfilename2='New Clover 2 HMV with beats [UNCENSORED]';%give the name of the funscript file
 % Spécifiez le nom des fichiers de sortie
 %%%you can ignore the next names 
